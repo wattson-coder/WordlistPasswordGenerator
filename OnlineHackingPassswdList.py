@@ -60,7 +60,7 @@ else:
 	pass
 
 chrs_up = chrs.upper()
-chrs_specials = '!\][/?.,~-=";:><@#$%&*()_+\' '
+chrs_specials = '!\][/?.,~-=";:><@#$%&*^}{|()_+\' '
 chrs_numerics = '1234567890'
 
 file_name = input('\n\033[36m[!] Insert a name for your wordlist file: ')
